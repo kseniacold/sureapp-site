@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "fe418dd1327c48ed88f2",
-    "url": "/static/css/main.72e423af.chunk.css"
+    "revision": "4647dc494abd5481a529",
+    "url": "/static/css/main.94938506.chunk.css"
   },
   {
-    "revision": "fe418dd1327c48ed88f2",
-    "url": "/static/js/main.fe418dd1.chunk.js"
+    "revision": "4647dc494abd5481a529",
+    "url": "/static/js/main.4647dc49.chunk.js"
   },
   {
-    "revision": "0808edae2c163248837c",
-    "url": "/static/js/1.0808edae.chunk.js"
+    "revision": "c9dab92f84de09006929",
+    "url": "/static/js/1.c9dab92f.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/static/media/heart-selected.f947355e.svg"
   },
   {
-    "revision": "3dc831dd8b0a6c45c2a1bc2a06e8e44d",
+    "revision": "cd7b15211309b3683820b34a8546007f",
     "url": "/index.html"
   }
 ];
